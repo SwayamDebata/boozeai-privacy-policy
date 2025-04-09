@@ -1,5 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy | BoozeAI</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #4B0082;
+    }
+  </style>
+</head>
 <body>
   <h1>Privacy Policy for BoozeAI</h1>
   <p><strong>Effective Date:</strong> [09-04-2025]</p>
